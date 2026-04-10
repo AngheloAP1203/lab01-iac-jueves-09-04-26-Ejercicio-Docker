@@ -1,5 +1,3 @@
-# lab01-iac-jueves-09-04-26-Ejercicio-Docker
-
 Estimados estudiantes, realizar la siguiente actividad:
 
 Tenemos código de una aplicación web. Se compone por un archivo HTML que tiene como contenido: WEB01
